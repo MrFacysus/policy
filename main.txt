@@ -1,0 +1,23 @@
+1. Data We Collect
+
+Considering the nature of Cube Fall, we do not collect any personal data from our users. The app only includes gameplay features, and no data is extracted or stored from your device.
+
+2. How We Use Data
+
+As we do not collect any data, there isn't any data to use or process.
+
+3. Sharing of Data
+
+We do not share or transfer any user data because we don't collect it in the first place.
+
+4. Data Storage
+
+Cube Fall does not store any personal data from its users apart from best score and game state.
+
+5. Children's Privacy
+
+Our game is intended for users of all ages. Since we do not collect or store any data, there is no risk of compromising children's privacy.
+
+6. Your Rights
+
+You have various rights regarding your personal data, including the right to access, rectify, and erase your personal data. However, since our game does not collect any personal data, these rights do not apply within the context of our app.
